@@ -1,0 +1,1 @@
+echo "redirect to file" > file.txt
